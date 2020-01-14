@@ -1,0 +1,27 @@
+{
+  "name": "hexo-generator-sitemap-filter-html",
+  "version": "1.0.0",
+  "description": "Sitemap generator and filter-html plugin for Hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo-generator-sitemap",
+    "hexo",
+    "generator-sitemap",
+    "hexo-generator-sitemap-filter-html"
+  ],
+  "author": "Lee",
+  "license": "MIT",
+  "dependencies": {
+    "micromatch": "^4.0.2"
+  },
+  "devDependencies": {
+    "hexo": "^4.0.0",
+    "hexo-generator-sitemap": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=8.6.0"
+  }
+}
