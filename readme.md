@@ -5,7 +5,7 @@ Generate sitemap and filter html.
 ## Install
 
 ``` bash
-$ npm install git@https://github.com/GLeeWei/hexo-generator-sitemap-filter-html --save
+$ npm i git+https://github.com:GLeeWei/hexo-generator-sitemap-filter-html.git --save-dev
 ```
 
 - Hexo 4: 2.x
