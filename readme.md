@@ -18,7 +18,7 @@ You can configure this plugin in `_config.yml`.
 
 ``` yaml
 sitemap_filter_html:
-    filePaths: ['404.html', 'xxx.html']
+    filePaths: ['404.html', 'xxx.htm', 'index']
 ```
 
 - **filePaths** - filter html paths. (Default: [])
